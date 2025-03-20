@@ -1,6 +1,9 @@
 notebook:
     uv run jupyter notebook --notebook-dir=notebooks/
 
+test:
+    pytest
+
 markmaps:
     #!/usr/bin/env bash
     mkdir -p notebooks/markmaps/html

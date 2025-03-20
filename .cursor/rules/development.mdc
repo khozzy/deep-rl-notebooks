@@ -58,6 +58,7 @@ Key Conventions:
 2. Create reusable plotting functions for consistent visualizations.
 3. Document data sources, assumptions, and methodologies clearly.
 4. Use version control (e.g., git) for tracking changes in notebooks and scripts.
+5. Do not implement any functionality until explicitly asked for (like Agents, highly specialized test cases, plots).
 
 Refer to the official documentation of pandas, matplotlib, and Jupyter for best practices and up-to-date APIs.
     
